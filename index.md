@@ -1,238 +1,145 @@
 # Privacy Policy - BudgetKu
 
-**Last updated: February 17, 2025**
+**Terakhir diperbarui: 24 Agustus 2025**
 
-## Introduction
+## Tentang BudgetKu
 
-BudgetKu ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+BudgetKu adalah aplikasi manajemen keuangan pribadi yang dirancang untuk membantu Anda mengelola anggaran dengan mudah dan aman. Semua data disimpan secara lokal di perangkat Anda, tanpa perlu koneksi internet untuk fungsi utama.
 
-## Information We Collect
+## 1. Data yang Kami Kumpulkan
 
-### Personal Information
+### 1.1 Data Finansial (Disimpan Lokal)
+- **Transaksi**: Deskripsi, kategori, jumlah, tanggal transaksi
+- **Budget**: Anggaran per kategori, periode budget, target pengeluaran
+- **Kategori**: Nama kategori, ikon, warna kategori
+- **Transaksi Berulang**: Jadwal transaksi otomatis
+- **Event Budget**: Anggaran untuk acara khusus
 
-BudgetKu is designed to work primarily offline. Most of your financial data is stored locally on your device and never transmitted to external servers. However, we do use certain third-party services that may collect limited data as described below.
+**PENTING**: Semua data finansial disimpan secara lokal di perangkat Anda menggunakan Android Keystore sistem (enkripsi hardware-backed) dan **tidak pernah dikirim ke server kami**.
 
-### Data Stored Locally
+### 1.2 Data yang Dikumpulkan oleh Layanan Pihak Ketiga
 
-The app stores the following information locally on your device:
+#### Google AdMob (untuk iklan)
+- **Advertising ID**: Untuk menampilkan iklan yang relevan
+- **Device Information**: Model perangkat, OS version
+- **App Usage**: Interaksi dengan iklan
+- **Location** (opsional): Untuk iklan berbasis lokasi
 
-*   Financial transactions (income and expenses)
-*   Budget categories and amounts
-*   Recurring transaction settings
-*   Event budget information
-*   App preferences and settings
+#### RevenueCat (untuk subscription)
+- **Purchase History**: Riwayat pembelian subscription
+- **Device ID**: Untuk mengelola status subscription
+- **App User ID**: Anonymous identifier
 
-### Device Permissions
+#### Google Play Services (untuk pembayaran)
+- **Transaction Data**: Detail pembelian in-app
+- **Account Information**: Terhubung dengan Google Account
 
-The app requests the following permissions:
+## 2. Cara Kami Menggunakan Data
 
-*   **Internet Access**: Required for advertisements and subscription management
-*   **Storage Access**: To export transaction data as CSV files to your device storage
-*   **Advertising ID Access**: To serve personalized advertisements (can be reset in Android settings)
+### 2.1 Data Lokal
+- Menyediakan fitur manajemen keuangan
+- Menampilkan laporan dan analitik
+- Mengatur budget dan notifikasi
+- Export data ke file CSV
 
-## Third-Party Services
+### 2.2 Data Pihak Ketiga
+- **AdMob**: Menampilkan iklan yang relevan (hanya untuk pengguna gratis)
+- **RevenueCat**: Mengelola status subscription premium
+- **Google Play**: Memproses pembayaran in-app
 
-### 3.1 Google AdMob
+## 3. Berbagi Data dengan Pihak Ketiga
 
-**Purpose**: Serving advertisements to support the free version of the app
+Kami **TIDAK** membagikan data finansial Anda dengan pihak ketiga. Data yang dibagikan terbatas pada:
 
-**Data Collected**:
-*   Google Advertising ID
-*   Device information (device type, operating system)
-*   IP address
-*   Ad interaction data
-*   Diagnostic information
+### Google AdMob
+- Advertising ID (dapat di-reset di pengaturan Android)
+- Informasi perangkat dan penggunaan aplikasi
+- **Tidak termasuk**: Data finansial, transaksi, atau informasi personal
 
-**Privacy Policy**: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+### RevenueCat
+- Status subscription dan purchase history
+- Anonymous app user ID
+- **Tidak termasuk**: Data finansial atau informasi personal
 
-**User Control**: You can opt-out of personalized ads or reset your Advertising ID through Android Settings > Google > Ads
+### Google Play Services  
+- Data transaksi pembelian in-app saja
+- **Tidak termasuk**: Data finansial atau penggunaan aplikasi
 
-### 3.2 RevenueCat
+## 4. Keamanan Data
 
-**Purpose**: Managing premium subscriptions and in-app purchases
+### 4.1 Data Lokal
+- **Enkripsi**: Data disimpan menggunakan Android Keystore sistem (enkripsi hardware-backed)
+- **Akses**: Hanya aplikasi BudgetKu yang dapat mengakses data
+- **Backup**: Data tidak ter-backup ke cloud secara otomatis
 
-**Data Collected**:
-*   Purchase history and subscription status
-*   Device identifiers (anonymous)
-*   Transaction timestamps
-*   App usage analytics related to subscriptions
+### 4.2 Komunikasi Jaringan
+- **HTTPS**: Semua komunikasi dengan server menggunakan HTTPS
+- **TLS**: Enkripsi end-to-end untuk data yang dikirim/diterima
 
-**Privacy Policy**: [https://www.revenuecat.com/privacy/](https://www.revenuecat.com/privacy/)
+## 5. Kontrol dan Hak Pengguna
 
-**Data Processing**: RevenueCat acts as a data processor on our behalf
+### 5.1 Kontrol Data Finansial
+✅ **Akses Penuh**: Lihat semua data finansial Anda  
+✅ **Edit**: Ubah atau hapus transaksi dan budget  
+✅ **Export**: Export data ke file CSV kapan saja  
+✅ **Hapus**: Hapus semua data dengan menghapus aplikasi  
 
-### 3.3 Google Play Services
+### 5.2 Kontrol Privasi Iklan
+✅ **Reset Advertising ID**: Pengaturan Android > Google > Iklan  
+✅ **Opt-out Iklan Personal**: Nonaktifkan di pengaturan Google  
+✅ **Upgrade Premium**: Hilangkan iklan sepenuhnya  
 
-**Purpose**: In-app purchases, app functionality, and core services
+### 5.3 Kontrol Subscription
+✅ **Kelola**: Melalui Google Play Store  
+✅ **Cancel**: Batalkan subscription kapan saja  
+✅ **Restore**: Pulihkan pembelian di perangkat baru  
 
-**Data Collected**:
-*   Purchase and billing information
-*   Google account information (when making purchases)
-*   Device and app diagnostic data
+## 6. Penyimpanan dan Retensi Data
 
-**Privacy Policy**: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+### 6.1 Data Lokal
+- **Lokasi**: Disimpan di internal storage perangkat
+- **Durasi**: Hingga Anda menghapus aplikasi atau menghapus data manual
+- **Backup**: Tidak otomatis, hanya melalui export CSV
 
-## How We Use Your Information
+### 6.2 Data Pihak Ketiga
+- **AdMob**: Sesuai kebijakan Google AdMob
+- **RevenueCat**: Sesuai kebijakan RevenueCat
+- **Google Play**: Sesuai kebijakan Google Play
 
-### Local Data Usage
-Your financial data stored locally is used to:
+## 7. Target Pengguna
 
-*   Display your financial transactions and budgets
-*   Calculate spending analytics
-*   Send local notifications for budget alerts
-*   Export your data when requested
+- **Usia Minimum**: 13+ tahun
+- **Konten**: Aplikasi ini tidak secara sengaja mengumpulkan informasi dari anak di bawah 13 tahun
+- **Rating**: Teen (T) - konten iklan disaring sesuai rating
 
-### Third-Party Data Usage
-Data shared with third parties is used for:
+## 8. Kepatuhan Hukum
 
-*   **AdMob**: Serving relevant advertisements and measuring ad performance
-*   **RevenueCat**: Processing subscriptions and preventing fraud
-*   **Google Play**: Processing payments and app distribution
+Aplikasi ini mengikuti prinsip-prinsip perlindungan data dan mematuhi:
+- **Prinsip GDPR** (General Data Protection Regulation) untuk perlindungan data pengguna
+- **Prinsip CCPA** (California Consumer Privacy Act) untuk transparansi data  
+- **Kebijakan Google Play Store** (penuh)
+- **Kebijakan AdMob dan RevenueCat** (penuh)
 
-## Data Security
+## 9. Perubahan Kebijakan
 
-*   **Local Data**: All financial data is stored locally using Android's secure storage mechanisms
-*   **Data in Transit**: All data transmitted to third parties is encrypted using industry-standard TLS protocols
-*   **No Direct Collection**: We do not directly collect, store, or have access to your personal information on our servers
-*   **Minimal Data Sharing**: Only necessary data is shared with third-party services for specific purposes
+Kami dapat memperbarui kebijakan privasi ini sewaktu-waktu. Perubahan akan:
+- Dinotifikasi melalui update aplikasi
+- Ditampilkan di menu "Tentang Aplikasi"
+- Berlaku setelah 30 hari publikasi
 
-## Data Sharing
+## 10. Kontak
 
-### What We Share
-We share limited data only with the third-party services mentioned above:
+Jika Anda memiliki pertanyaan tentang kebijakan privasi ini:
 
-*   **Google (AdMob)**: Advertising identifier and related ad data
-*   **RevenueCat**: Subscription and purchase data
-*   **Google Play**: Purchase and billing information
+**Email**: flasnelstudio@gmail.com  
+**Subject**: BudgetKu - Privacy Policy Question
 
-### What We Don't Share
-*   Your financial transaction details
-*   Budget information
-*   Personal financial data
-*   Any locally stored information
+## 11. Disclaimer
 
-We do not sell your data to any third parties.
-
-## Advertising
-
-### Personalized Advertising
-*   We use Google AdMob to display advertisements
-*   Ads may be personalized based on your Advertising ID
-*   You can opt-out of personalized advertising in your device settings
-
-### Ad Content Rating
-*   Our app is rated for Teen (13+) audiences
-*   Ad content is filtered accordingly
-*   We do not display ads targeted to children under 13
-
-## Data Export and Backup
-
-You have full control over your local data:
-
-*   Export your transaction data as CSV files
-*   Share exported files using your device's sharing functionality
-*   Back up your data manually through the export feature
-*   All exports are processed locally on your device
-
-## Data Retention
-
-### Local Data
-Your financial data is retained locally on your device until:
-
-*   You manually delete transactions or categories
-*   You uninstall the application
-*   You clear the app's data through device settings
-
-### Third-Party Data
-*   **AdMob**: Retained according to Google's advertising policies
-*   **RevenueCat**: Retained for subscription management and compliance purposes
-*   **Google Play**: Retained according to Google Play's policies
-
-## Your Rights
-
-### General Rights
-*   Access your local data through the app interface
-*   Delete your local data by uninstalling the app or clearing app data
-*   Export your data in CSV format
-*   Cancel subscriptions through Google Play Store
-
-### Advertising Rights
-*   Opt-out of personalized ads (Android Settings > Google > Ads)
-*   Reset your Advertising ID
-*   Request ad preference changes through Google's ad settings
-
-### GDPR Rights (EU Users)
-If you are located in the European Union, you have additional rights:
-
-*   **Right to Access**: Request information about data processing
-*   **Right to Rectification**: Correct inaccurate data
-*   **Right to Erasure**: Request deletion of your data
-*   **Right to Portability**: Receive your data in a portable format
-*   **Right to Object**: Object to certain data processing activities
-*   **Legal Basis**: Our processing is based on legitimate interests (advertising) and contract performance (subscriptions)
-
-### CCPA Rights (California Users)
-If you are a California resident, you have rights under the California Consumer Privacy Act:
-
-*   Right to know what personal information is collected
-*   Right to delete personal information
-*   Right to opt-out of the sale of personal information (we do not sell data)
-*   Right to non-discrimination for exercising your rights
-
-## Children's Privacy
-
-*   BudgetKu is designed for users aged 13 and above
-*   We do not knowingly collect personal information from children under 13
-*   Our advertising is configured to not target children
-*   If we become aware of data collection from children under 13, we will take steps to delete such information
-
-## International Data Transfers
-
-*   **Local Data**: Remains on your device in your country
-*   **Third-Party Services**: Data may be transferred to and processed in other countries by our service providers
-*   **Safeguards**: All transfers are protected by appropriate safeguards and comply with applicable laws
-
-## Contact Information
-
-For privacy-related questions or requests, contact us:
-
-*   **Email**: flasnelstudio@gmail.com
-*   **Developer**: Flasnel Studio
-*   **Response Time**: We aim to respond within 30 days
-
-For data subject requests under GDPR or CCPA, please specify the nature of your request in your email.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. When we do:
-
-*   We will update the "Last updated" date
-*   We will notify users of significant changes through the app or our website
-*   Continued use of the app after changes constitutes acceptance of the updated policy
-
-## Compliance and Certifications
-
-This Privacy Policy is designed to comply with:
-
-*   Google Play Developer Program Policies
-*   General Data Protection Regulation (GDPR)
-*   California Consumer Privacy Act (CCPA)
-*   Android App Privacy Requirements
-*   AdMob Publisher Policies
-
-## Technical Implementation
-
-### Data Minimization
-*   We collect only the minimum data necessary for app functionality
-*   Local financial data never leaves your device
-*   Third-party integrations use minimal necessary data
-
-### Security Measures
-*   Local data encryption using Android Keystore
-*   TLS encryption for all network communications
-*   Regular security updates and monitoring
-*   No storage of sensitive data on external servers
+BudgetKu adalah aplikasi manajemen keuangan pribadi dan bukan penasihat keuangan berlisensi. Gunakan informasi ini sebagai panduan pribadi Anda.
 
 ---
 
-**By using BudgetKu, you acknowledge that you have read and understood this Privacy Policy and agree to the collection and use of information in accordance with this policy.**
+**© 2025 BudgetKu by Flasnel Studio. All rights reserved.**
+
+*Kebijakan ini tersedia dalam bahasa Indonesia dan bahasa Inggris. Jika terdapat perbedaan interpretasi, versi bahasa Indonesia yang berlaku.*

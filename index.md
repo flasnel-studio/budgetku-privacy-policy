@@ -143,5 +143,3 @@ BudgetKu adalah aplikasi manajemen keuangan pribadi dan bukan penasihat keuangan
 ---
 
 **© 2025 BudgetKu by Flasnel Studio. All rights reserved.**
-
-*Kebijakan ini tersedia dalam bahasa Indonesia dan bahasa Inggris. Jika terdapat perbedaan interpretasi, versi bahasa Indonesia yang berlaku.*

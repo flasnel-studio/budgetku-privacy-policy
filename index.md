@@ -1,10 +1,10 @@
 # Privacy Policy - BudgetKu
 
-**Terakhir diperbarui: 24 Agustus 2025**
+**Terakhir diperbarui: 3 September 2025**
 
 ## Tentang BudgetKu
 
-BudgetKu adalah aplikasi manajemen keuangan pribadi yang dirancang untuk membantu Anda mengelola anggaran dengan mudah dan aman. Semua data disimpan secara lokal di perangkat Anda, tanpa perlu koneksi internet untuk fungsi utama.
+BudgetKu adalah aplikasi manajemen keuangan pribadi yang dirancang untuk membantu Anda mengelola anggaran dengan mudah dan aman. **Aplikasi ini memerlukan koneksi internet aktif untuk berfungsi** dan semua data disimpan secara lokal di perangkat Anda.
 
 ## 1. Data yang Kami Kumpulkan
 
@@ -15,14 +15,15 @@ BudgetKu adalah aplikasi manajemen keuangan pribadi yang dirancang untuk membant
 - **Transaksi Berulang**: Jadwal transaksi otomatis
 - **Event Budget**: Anggaran untuk acara khusus
 
-**PENTING**: Semua data finansial disimpan secara lokal di perangkat Anda menggunakan Android Keystore sistem (enkripsi hardware-backed) dan **tidak pernah dikirim ke server kami**.
+**PENTING**: Semua data finansial disimpan secara lokal di perangkat Anda dan **tidak pernah dikirim ke server kami**.
 
 ### 1.2 Data yang Dikumpulkan oleh Layanan Pihak Ketiga
 
 #### Google AdMob (untuk iklan)
 - **Advertising ID**: Untuk menampilkan iklan yang relevan
 - **Device Information**: Model perangkat, OS version
-- **App Usage**: Interaksi dengan iklan
+- **App Usage**: Interaksi dengan iklan, durasi penggunaan aplikasi
+- **Network Status**: Status koneksi internet untuk optimalisasi iklan
 - **Location** (opsional): Untuk iklan berbasis lokasi
 
 #### RevenueCat (untuk subscription)
@@ -40,7 +41,7 @@ BudgetKu adalah aplikasi manajemen keuangan pribadi yang dirancang untuk membant
 - Menyediakan fitur manajemen keuangan
 - Menampilkan laporan dan analitik
 - Mengatur budget dan notifikasi
-- Export data ke file CSV
+- Berbagi ringkasan keuangan ke media sosial dan aplikasi lainnya
 
 ### 2.2 Data Pihak Ketiga
 - **AdMob**: Menampilkan iklan yang relevan (hanya untuk pengguna gratis)
@@ -68,20 +69,21 @@ Kami **TIDAK** membagikan data finansial Anda dengan pihak ketiga. Data yang dib
 ## 4. Keamanan Data
 
 ### 4.1 Data Lokal
-- **Enkripsi**: Data disimpan menggunakan Android Keystore sistem (enkripsi hardware-backed)
+- **Keamanan**: Data disimpan di internal storage perangkat dengan perlindungan sistem Android
 - **Akses**: Hanya aplikasi BudgetKu yang dapat mengakses data
 - **Backup**: Data tidak ter-backup ke cloud secara otomatis
 
 ### 4.2 Komunikasi Jaringan
 - **HTTPS**: Semua komunikasi dengan server menggunakan HTTPS
 - **TLS**: Enkripsi end-to-end untuk data yang dikirim/diterima
+- **Persyaratan Koneksi**: Aplikasi memerlukan koneksi internet stabil untuk berfungsi optimal
 
 ## 5. Kontrol dan Hak Pengguna
 
 ### 5.1 Kontrol Data Finansial
 ✅ **Akses Penuh**: Lihat semua data finansial Anda  
 ✅ **Edit**: Ubah atau hapus transaksi dan budget  
-✅ **Export**: Export data ke file CSV kapan saja  
+✅ **Berbagi**: Bagikan ringkasan keuangan Anda ke berbagai platform  
 ✅ **Hapus**: Hapus semua data dengan menghapus aplikasi  
 
 ### 5.2 Kontrol Privasi Iklan
@@ -99,7 +101,7 @@ Kami **TIDAK** membagikan data finansial Anda dengan pihak ketiga. Data yang dib
 ### 6.1 Data Lokal
 - **Lokasi**: Disimpan di internal storage perangkat
 - **Durasi**: Hingga Anda menghapus aplikasi atau menghapus data manual
-- **Backup**: Tidak otomatis, hanya melalui export CSV
+- **Backup**: Tidak otomatis, dapat dibagikan melalui fitur share
 
 ### 6.2 Data Pihak Ketiga
 - **AdMob**: Sesuai kebijakan Google AdMob

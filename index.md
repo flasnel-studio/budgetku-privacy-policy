@@ -1,6 +1,6 @@
 # Privacy Policy - BudgetKu
 
-**Terakhir diperbarui: 3 September 2025**
+**Terakhir diperbarui: 15 September 2025**
 
 ## Tentang BudgetKu
 
@@ -24,7 +24,6 @@ BudgetKu adalah aplikasi manajemen keuangan pribadi yang dirancang untuk membant
 - **Device Information**: Model perangkat, OS version
 - **App Usage**: Interaksi dengan iklan, durasi penggunaan aplikasi
 - **Network Status**: Status koneksi internet untuk optimalisasi iklan
-- **Location** (opsional): Untuk iklan berbasis lokasi
 
 #### RevenueCat (untuk subscription)
 - **Purchase History**: Riwayat pembelian subscription
@@ -104,15 +103,15 @@ Kami **TIDAK** membagikan data finansial Anda dengan pihak ketiga. Data yang dib
 - **Backup**: Tidak otomatis, dapat dibagikan melalui fitur share
 
 ### 6.2 Data Pihak Ketiga
-- **AdMob**: Sesuai kebijakan Google AdMob
-- **RevenueCat**: Sesuai kebijakan RevenueCat
-- **Google Play**: Sesuai kebijakan Google Play
+- **AdMob**: Data advertising disimpan sesuai kebijakan Google AdMob (biasanya 12-24 bulan)
+- **RevenueCat**: Data subscription disimpan selama lifecycle subscription + 7 tahun untuk kepatuhan pajak
+- **Google Play**: Data transaksi disimpan sesuai kebijakan Google Play
 
 ## 7. Target Pengguna
 
-- **Usia Minimum**: 13+ tahun
+- **Usia Minimum**: 3+ tahun (dengan supervisi orang tua untuk anak di bawah 13 tahun)
 - **Konten**: Aplikasi ini tidak secara sengaja mengumpulkan informasi dari anak di bawah 13 tahun
-- **Rating**: Teen (T) - konten iklan disaring sesuai rating
+- **Rating**: Everyone (3+) - konten iklan disaring sesuai rating
 
 ## 8. Kepatuhan Hukum
 
@@ -143,3 +142,5 @@ BudgetKu adalah aplikasi manajemen keuangan pribadi dan bukan penasihat keuangan
 ---
 
 **© 2025 BudgetKu by Flasnel Studio. All rights reserved.**
+
+*Kebijakan ini tersedia dalam bahasa Indonesia dan bahasa Inggris. Jika terdapat perbedaan interpretasi, versi bahasa Indonesia yang berlaku.*
